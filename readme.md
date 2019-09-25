@@ -2,7 +2,7 @@
 
 ```bash
 $ gtar xf lodkatest.tgz && cd $_   # or
-$ git clone https://github.com/ol-eg/lodkatest.git && cd $_
+$ git clone https://github.com/ol-eg/lodkatest.git && cd lodkatest
 
 $ pytnon3 -m venv venv-lodkatest
 $ source venv-lodkatest/bin/activate
